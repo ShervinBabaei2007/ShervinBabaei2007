@@ -1,6 +1,7 @@
 # 👋 I'm Shervin Babaei
 
-### **Full Stack Developer** | **I build, ship, and scale web applications from the ground up.**
+## **Full Stack Developer** 
+**I build, ship, and scale web applications from the ground up.**
 
 I am a developer who focuses on **results** and clean, maintainable systems. Currently sharpening my technical stack at **BCIT** with a focus on full-stack web development and AI optimization.
 
