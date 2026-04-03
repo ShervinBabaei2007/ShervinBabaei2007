@@ -19,13 +19,6 @@ I am a developer who focuses on **results** and clean, maintainable systems. Cur
 
 ---
 
-### 📊 Stats
-| Activity Overview | Top Languages |
-| :--- | :--- |
-| ![Shervin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShervinBabaei2007&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShervinBabaei2007&layout=compact&theme=dark&hide_border=true) |
-
----
-
 ### 🔍 Current Focus
 * **Performance:** Optimizing database queries in **MySQL, PostgreSQL/MongoDB** for high-load applications.
 * **AI:** Implementing **Local LLMs** to create private, secure automation tools.
