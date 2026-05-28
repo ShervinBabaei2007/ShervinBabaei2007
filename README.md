@@ -1,11 +1,14 @@
 # 👋 I'm Shervin Babaei
+## **Full-Stack Developer**
+**I build, ship, and iterate on web applications from the ground up.**
 
-## **Full Stack Developer** 
-**I build, ship, and scale web applications from the ground up.**
+Developer focused on results and clean, maintainable systems. Currently at **BCIT** 
+(GPA: 88%) sharpening full-stack and AI-integrated tooling. **Hack The Break 2026 
+Top-6 Finalist out of 36 teams.**
 
-I am a developer who focuses on **results** and clean, maintainable systems. Currently sharpening my technical stack at **BCIT** with a focus on full-stack web development and AI optimization.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/) • ✉️ [shervinb22@gmail.com](mailto:shervinb22@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/) • 
+✉️ [shervinb22@gmail.com](mailto:shervinb22@gmail.com) • 
+🌐 [Portfolio](https://shervinbabaei2007.github.io/ShervinBabaei-Portfolio/)
 
 ---
 
@@ -13,25 +16,25 @@ I am a developer who focuses on **results** and clean, maintainable systems. Cur
 
 | Area | Technologies |
 | :--- | :--- |
-| **Frontend** | React, TypeScript, JavaScript, HTML5, CSS3 |
-| **Backend** | Node.js, Python, REST APIs |
-| **Database** | PostgreSQL, MySQL, MongoDB |
-| **Systems/AI** | Git, Local LLM Integration, Workflow Automation |
+| **Frontend** | React, TypeScript, JavaScript, TailwindCSS |
+| **Backend** | Node.js, Express.js, Python, REST APIs |
+| **Database** | PostgreSQL, MySQL, MongoDB, Redis |
+| **DevOps** | GitHub Actions, Docker, Vercel, AWS (EC2, S3) |
+| **Auth** | JWT, OAuth 2.0, Better Auth |
+| **AI/Systems** | Local LLM Integration, LM Studio, asyncio |
 
 ---
 
 ### 🔍 Current Focus
-* **Performance:** Optimizing database queries in **MySQL, PostgreSQL/MongoDB** for high-load applications.
-* **AI:** Implementing **Local LLMs** to create private, secure automation tools.
-* **Architecture:** Moving towards **TypeScript**-first development for better type safety and scalability.
+- **Backend:** Building rate-limited, schema-validated APIs with Node.js and Express
+- **AI:** Running local LLMs privately via LM Studio for automation tooling
+- **Systems:** Working through C programming for deeper systems understanding
 
 ---
 
 ### 🚀 Let's Connect
 
-**"Code is for people, not just machines."**
+Open to internships, co-ops, and collaborations in Vancouver and remote.
 
-I'm always down to collaborate on a new project, talk tech, or discuss better ways to build things. Whether it's a team build, open-source, or just a quick chat about the React ecosystem, feel free to reach out.
-
-📫 **Drop me an email:** [shervinb22@gmail.com](mailto:shervinb22@gmail.com)  
-💼 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/)
+📫 [shervinb22@gmail.com](mailto:shervinb22@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/)
