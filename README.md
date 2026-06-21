@@ -1,14 +1,11 @@
 # 👋 I'm Shervin Babaei
 ## **Full-Stack Developer**
-**I build, ship, and iterate on web applications from the ground up.**
 
-Developer focused on results and clean, maintainable systems. Currently at **BCIT** 
-(GPA: 88%) sharpening full-stack and AI-integrated tooling. **Hack The Break 2026 
-Top-6 Finalist out of 36 teams.**
+**I build, ship, and iterate on web applications & softwares from the ground up.**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/) • 
-✉️ [shervinb22@gmail.com](mailto:shervinb22@gmail.com) • 
-🌐 [Portfolio](https://shervinbabaei2007.github.io/ShervinBabaei-Portfolio/)
+Developer focused on results and clean, maintainable systems. Currently at **BCIT** (GPA: 88%) sharpening full-stack and AI-integrated tooling. **Hack The Break 2026 Top-6 Finalist out of 36 teams.**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/) • ✉️ [shervinb22@gmail.com](mailto:shervinb22@gmail.com) • 🌐 [Portfolio](https://shervinbabaei2007.github.io/ShervinBabaei-Portfolio/)
 
 ---
 
@@ -16,19 +13,20 @@ Top-6 Finalist out of 36 teams.**
 
 | Area | Technologies |
 | :--- | :--- |
-| **Frontend** | React, TypeScript, JavaScript, TailwindCSS |
-| **Backend** | Node.js, Express.js, Python, REST APIs |
-| **Database** | PostgreSQL, MySQL, MongoDB, Redis |
-| **DevOps** | GitHub Actions, Docker, Vercel, AWS (EC2, S3) |
+| **Frontend** | React, TypeScript, JavaScript, TailwindCSS, shadCN |
+| **Backend** | Node.js, Express.js, Python, REST APIs, WebSockets |
+| **Database** | PostgreSQL, MySQL, MongoDB, Redis, Drizzle ORM, Sequelize |
+| **DevOps** | GitHub Actions, Docker, Vercel, AWS (EC2, S3), pytest, Jest |
 | **Auth** | JWT, OAuth 2.0, Better Auth |
-| **AI/Systems** | Local LLM Integration, LM Studio, asyncio |
+| **AI/Systems** | Local LLM Integration, LM Studio, asyncio, Minimax, Ollama |
 
 ---
 
 ### 🔍 Current Focus
-- **Backend:** Building rate-limited, schema-validated APIs with Node.js and Express
-- **AI:** Running local LLMs privately via LM Studio for automation tooling
-- **Systems:** Working through C programming for deeper systems understanding
+
+- **Python:** Building an LLM Evaluation Framework — benchmarking local models with custom scoring, dataclasses, and a pytest suite
+- **Algorithms:** Implemented Minimax from scratch — unbeatable Tic-Tac-Toe AI with simulation-based verification
+- **AI:** Running and evaluating local LLMs privately via LM Studio and Ollama for automation tooling
 
 ---
 
