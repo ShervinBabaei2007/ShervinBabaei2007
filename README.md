@@ -5,7 +5,7 @@
 
 Developer focused on results and clean, maintainable systems. Currently at **BCIT** (GPA: 88%) sharpening full-stack and AI-integrated tooling. **Hack The Break 2026 Top-6 Finalist out of 36 teams.**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/) • ✉️ [shervinb22@gmail.com](mailto:shervinb22@gmail.com) • 🌐 [Portfolio](https://shervinbabaei2007.github.io/ShervinBabaei-Portfolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/) • ✉️ [shervinb22@gmail.com](mailto:shervinb22@gmail.com) • 🌐 [Portfolio](https://shervin-babaei.vercel.app/)
 
 ---
 
