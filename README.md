@@ -1,38 +1,51 @@
-# 👋 I'm Shervin Babaei
-## **Full-Stack Developer**
+# 👋 Hi, I'm Shervin Babaei
 
-**I build, ship, and iterate on web applications & softwares from the ground up.**
+## Full-Stack Developer | BCIT Student | AI & Local LLM Enthusiast
 
-Developer focused on results and clean, maintainable systems. Currently at **BCIT** (GPA: 88%) sharpening full-stack and AI-integrated tooling. **Hack The Break 2026 Top-6 Finalist out of 36 teams.**
+I build, ship, and iterate on web applications and software from the ground up.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/) • ✉️ [shervinb22@gmail.com](mailto:shervinb22@gmail.com) • 🌐 [Portfolio](https://shervin-babaei.vercel.app/)
+I'm a Full-Stack Web Development student at **BCIT** (GPA: **88%**) with a passion for building scalable, maintainable, and AI-powered applications. I enjoy learning new technologies, solving real-world problems, and continuously improving as a software developer.
 
----
-
-### 🛠️ Technical Stack
-
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | React, TypeScript, JavaScript, TailwindCSS, shadCN |
-| **Backend** | Node.js, Express.js, Python, REST APIs, WebSockets |
-| **Database** | PostgreSQL, MySQL, MongoDB, Redis, Drizzle ORM, Sequelize |
-| **DevOps** | GitHub Actions, Docker, Vercel, AWS (EC2, S3), pytest, Jest |
-| **Auth** | JWT, OAuth 2.0, Better Auth |
-| **AI/Systems** | Local LLM Integration, LM Studio, asyncio, Minimax, Ollama |
+🏆 **Hack The Break 2026** - Top 6 Finalist (36 teams)
 
 ---
 
-### 🔍 Current Focus
+## 🛠️ Technical Stack
 
-- **Python:** Building an LLM Evaluation Framework — benchmarking local models with custom scoring, dataclasses, and a pytest suite
-- **Algorithms:** Implemented Minimax from scratch — unbeatable Tic-Tac-Toe AI with simulation-based verification
-- **AI:** Running and evaluating local LLMs privately via LM Studio and Ollama for automation tooling
+| Area               | Technologies                                                                   |
+| :----------------- | :----------------------------------------------------------------------------- |
+| **Frontend**       | React, TypeScript, JavaScript, Tailwind CSS, shadcn/ui                         |
+| **Backend**        | Node.js, Express.js, Python, REST APIs, WebSockets                             |
+| **Database**       | PostgreSQL, MySQL, MongoDB, Redis, Drizzle ORM, Sequelize                      |
+| **DevOps & Cloud** | Docker, GitHub Actions, Vercel, AWS (EC2, S3)                                  |
+| **Authentication** | JWT, OAuth 2.0, Better Auth                                                    |
+| **AI & Systems**   | Ollama, LM Studio, Local LLM Integration, Prompt Engineering, asyncio, Minimax |
 
 ---
 
-### 🚀 Let's Connect
+## 🔍 Current Focus
 
-Open to internships, co-ops, and collaborations in Vancouver and remote.
+* Building modern full-stack applications with React, TypeScript, Node.js, and PostgreSQL.
+* Developing AI-powered tools and experimenting with local LLMs using Ollama and LM Studio.
+* Strengthening my Python skills through AI tooling, automation, and backend development.
+* Expanding my knowledge of software engineering, system design, and scalable application architecture.
 
-📫 [shervinb22@gmail.com](mailto:shervinb22@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/shervin-babaei-5a326a388/)
+---
+
+## 🚀 Featured Interests
+
+* Full-Stack Development
+* Backend Engineering
+* Artificial Intelligence & Local LLMs
+* Software Architecture
+* Clean Code & Developer Experience
+
+---
+
+## 📫 Let's Connect
+
+I'm currently seeking **Software Developer**, **Full-Stack Developer**, and **Backend Developer** internship and co-op opportunities in Vancouver or remote.
+
+* 💼 LinkedIn: https://www.linkedin.com/in/shervin-babaei-5a326a388/
+* 🌐 Portfolio: https://shervin-babaei.vercel.app/
+* 📧 Email: [shervinb22@gmail.com](mailto:shervinb22@gmail.com)
