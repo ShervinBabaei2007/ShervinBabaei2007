@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://shervin-babaei.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://shervin-babaei.me/Shervin-Babaei-Resume.pdf"><b>Résumé</b> (PDF)</a> &nbsp;·&nbsp;
+  <a href="https://shervin-babaei.me/Shervin-Babaei-Resume.pdf"><b>Resume</b> (PDF)</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/shervin-babaei-5a326a388/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:shervinb22@gmail.com"><b>shervinb22@gmail.com</b></a>
 </p>
