@@ -2,32 +2,30 @@
 
 <h1>Shervin Babaei</h1>
 
-<a href="https://shervin-babaei.me">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3400&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-stack+developer+in+Vancouver%2C+BC;I+build+web+apps%2C+then+write+about+what+broke;BCIT+%C2%B7+graduating+May+2027+%C2%B7+open+to+co-op+and+junior+roles" alt="Full-stack developer in Vancouver, BC" />
-</a>
-
-<p>I build full-stack web apps, and I like the parts most people skip: the API behind the button, the<br />database underneath it, and the test that proves it still works.</p>
+<p><b>Full-stack web developer</b> &nbsp;·&nbsp; Vancouver, BC &nbsp;·&nbsp; open to co-op and junior roles</p>
 
 <p>
-  <a href="https://shervin-babaei.me"><img src="https://img.shields.io/badge/Portfolio-shervin--babaei.me-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://shervin-babaei.me/Shervin-Babaei-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume (PDF)" /></a>
-  <a href="https://www.linkedin.com/in/shervin-babaei-5a326a388/"><img src="https://img.shields.io/badge/LinkedIn-Shervin_Babaei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:shervinb22@gmail.com"><img src="https://img.shields.io/badge/Email-shervinb22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://shervin-babaei.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://shervin-babaei.me/Shervin-Babaei-Resume.pdf"><b>Résumé</b> (PDF)</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shervin-babaei-5a326a388/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:shervinb22@gmail.com"><b>shervinb22@gmail.com</b></a>
 </p>
-
-<p><sub>Vancouver, BC &nbsp;·&nbsp; BCIT Full-Stack Web Development, 88% average &nbsp;·&nbsp; graduating May 2027</sub></p>
 
 </div>
 
-I'm a developer in Vancouver finishing my diploma at BCIT. I work mostly in React, TypeScript, Node.js and PostgreSQL, and I've been teaching myself C++ and local AI models on the side. I care more about software that holds up than software that looks finished: real tests, honest errors, and no feature that quietly makes things up.
+I'm a full-stack web developer in Vancouver, in my final year of BCIT's Full-Stack Web Development (FSWD) program, graduating in May 2027 with an 88% average. I work mostly in React, TypeScript, Node.js and PostgreSQL, and I've been teaching myself C++ and local AI models on the side.
 
-When something breaks, I write it down. Seven writeups so far, each one starting from real code in one of my projects.
+I care about the parts most people skip: the API behind the button, the database underneath it, and the test that proves it still works. Software that holds up beats software that looks finished — real tests, honest errors, and no feature that quietly makes things up.
+
+I'm looking for a co-op, internship or junior full-stack role, in Vancouver or remote. When something breaks, I write it down: seven writeups so far, each one starting from real code in one of my projects.
 
 ---
 
-| Commits this year | Pull requests merged | Projects built | Live apps | Tests on one solo app |
-| :---: | :---: | :---: | :---: | :---: |
-| **1,181** | **67** | **13** | **6** | **1,564** |
+<!-- STATS:START -->
+<p align="center">
+  <b>1,212</b> <sub>commits this year</sub> &nbsp;·&nbsp; <b>67</b> <sub>pull requests merged</sub> &nbsp;·&nbsp; <b>13</b> <sub>projects built</sub> &nbsp;·&nbsp; <b>6</b> <sub>live apps</sub> &nbsp;·&nbsp; <b>1,564</b> <sub>tests on one solo app</sub>
+</p>
+<!-- STATS:END -->
 
 ---
 
