@@ -88,16 +88,27 @@ def merged_pull_requests():
 
 
 def render(numbers):
+    cells = [
+        (f'{numbers["commits"]:,}', "commits this year"),
+        (f'{numbers["pull_requests"]:,}', "pull requests merged"),
+        (f'{numbers["projects"]:,}', "projects built"),
+        (f'{numbers["apps"]:,}', "live apps"),
+        (f'{numbers["tests"]:,}', "tests on one solo app"),
+    ]
+    row = "\n".join(
+        f'    <td align="center"><h3>{value}</h3><sub>{label}</sub></td>'
+        for value, label in cells
+    )
     return "\n".join(
         [
             START,
-            '<p align="center">',
-            f'  <b>{numbers["commits"]:,}</b> <sub>commits this year</sub> &nbsp;·&nbsp; '
-            f'<b>{numbers["pull_requests"]:,}</b> <sub>pull requests merged</sub> &nbsp;·&nbsp; '
-            f'<b>{numbers["projects"]:,}</b> <sub>projects built</sub> &nbsp;·&nbsp; '
-            f'<b>{numbers["apps"]:,}</b> <sub>live apps</sub> &nbsp;·&nbsp; '
-            f'<b>{numbers["tests"]:,}</b> <sub>tests on one solo app</sub>',
-            "</p>",
+            '<div align="center">',
+            '<table align="center">',
+            "  <tr>",
+            row,
+            "  </tr>",
+            "</table>",
+            "</div>",
             END,
         ]
     )
