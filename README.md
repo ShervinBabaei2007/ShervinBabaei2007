@@ -35,7 +35,11 @@ When something breaks, I write it down. Seven writeups so far, each one starting
 
 ### ⚡ [SignalDesk](https://github.com/ShervinBabaei2007/SignalDesk) — what the news actually agrees on
 
-<a href="https://signaldesk-lemon.vercel.app"><img src="https://raw.githubusercontent.com/ShervinBabaei2007/SignalDesk/main/docs/screenshots/dashboard.png" alt="SignalDesk dashboard: key figures, seven-day sentiment trend, daily brief and story feed" width="100%" /></a>
+<p align="center">
+  <a href="https://github.com/ShervinBabaei2007/ShervinBabaei2007/blob/main/assets/signaldesk-dashboard.webp"><img src="https://raw.githubusercontent.com/ShervinBabaei2007/ShervinBabaei2007/main/assets/signaldesk-dashboard.webp" alt="SignalDesk dashboard: key figures, a seven-day sentiment trend, the daily brief and the story feed" width="72%" /></a>
+  <br />
+  <sub>The SignalDesk dashboard · tap the image to open it full size</sub>
+</p>
 
 SignalDesk reads dozens of news sites, groups the articles that cover the same event, and shows you where those outlets agree and where their numbers differ.
 
@@ -52,7 +56,11 @@ SignalDesk reads dozens of news sites, groups the articles that cover the same e
 
 ### 🌐 [Network Growth Assistant](https://github.com/ShervinBabaei2007/Network-Growth-Assistance) — networking and a job search in one place
 
-<a href="https://linkedin-network-growth-assistance.vercel.app"><img src="https://raw.githubusercontent.com/ShervinBabaei2007/Network-Growth-Assistance/main/docs/images/banner.png" alt="Network Growth Assistant shown in a browser and on a phone" width="100%" /></a>
+<p align="center">
+  <a href="https://github.com/ShervinBabaei2007/ShervinBabaei2007/blob/main/assets/nga-banner.webp"><img src="https://raw.githubusercontent.com/ShervinBabaei2007/ShervinBabaei2007/main/assets/nga-banner.webp" alt="Network Growth Assistant shown in a browser window and on a phone" width="82%" /></a>
+  <br />
+  <sub>Network Growth Assistant · tap the image to open it full size</sub>
+</p>
 
 One place to grow your network, find real jobs and keep track of every application. It never touches LinkedIn for you: you open the profile, you send the message.
 
