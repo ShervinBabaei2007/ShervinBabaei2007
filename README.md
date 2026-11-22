@@ -2,7 +2,11 @@
 
 <h1>Shervin Babaei</h1>
 
-<p><b>Full-stack web developer</b> &nbsp;·&nbsp; Vancouver, BC &nbsp;·&nbsp; open to co-op and junior roles</p>
+<a href="https://shervin-babaei.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Shervin+Babaei;Full-stack+web+developer+in+Vancouver%2C+BC;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;I+build+web+apps%2C+then+write+about+what+broke" alt="Shervin Babaei, full-stack web developer in Vancouver, BC" />
+</a>
+
+<p><sub>BCIT Full-Stack Web Development &nbsp;·&nbsp; 88% average &nbsp;·&nbsp; graduating May 2027 &nbsp;·&nbsp; open to co-op and junior roles</sub></p>
 
 <p>
   <a href="https://shervin-babaei.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
