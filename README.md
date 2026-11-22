@@ -15,8 +15,6 @@
   <a href="mailto:shervinb22@gmail.com"><b>shervinb22@gmail.com</b></a>
 </p>
 
-<p><sub><a href="#selected-work">Work</a> &nbsp;·&nbsp; <a href="#more-projects">Projects</a> &nbsp;·&nbsp; <a href="#i-write-about-what-breaks">Writeups</a> &nbsp;·&nbsp; <a href="#stack">Stack</a> &nbsp;·&nbsp; <a href="#on-github">Activity</a> &nbsp;·&nbsp; <a href="#contact">Contact</a></sub></p>
-
 </div>
 
 I build full-stack products end to end: the interface, the API behind it, the database underneath, and the tests that prove it still holds together. Most of my work is React, TypeScript, Node.js and PostgreSQL, and I've been teaching myself C++ and local AI models on the side.
