@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Shervin+Babaei;Full-stack+web+developer+in+Vancouver%2C+BC;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;I+build+web+apps%2C+then+write+about+what+broke" alt="Shervin Babaei, full-stack web developer in Vancouver, BC" />
 </a>
 
-<p><sub>BCIT Full-Stack Web Development &nbsp;·&nbsp; 88% average &nbsp;·&nbsp; graduating May 2027 &nbsp;·&nbsp; open to co-op and junior roles</sub></p>
+<p><sub>BCIT Full-Stack Web Development (FSWD) &nbsp;·&nbsp; 88% average &nbsp;·&nbsp; graduating May 2027 &nbsp;·&nbsp; open to co-op and junior roles</sub></p>
 
 <p>
   <a href="https://shervin-babaei.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
@@ -15,100 +15,102 @@
   <a href="mailto:shervinb22@gmail.com"><b>shervinb22@gmail.com</b></a>
 </p>
 
+<p><sub><a href="#selected-work">Work</a> &nbsp;·&nbsp; <a href="#more-projects">Projects</a> &nbsp;·&nbsp; <a href="#i-write-about-what-breaks">Writeups</a> &nbsp;·&nbsp; <a href="#stack">Stack</a> &nbsp;·&nbsp; <a href="#on-github">Activity</a> &nbsp;·&nbsp; <a href="#contact">Contact</a></sub></p>
+
 </div>
 
-I'm a full-stack web developer in Vancouver, in my final year of BCIT's Full-Stack Web Development (FSWD) program, graduating in May 2027 with an 88% average. I work mostly in React, TypeScript, Node.js and PostgreSQL, and I've been teaching myself C++ and local AI models on the side.
+I build full-stack products end to end: the interface, the API behind it, the database underneath, and the tests that prove it still holds together. Most of my work is React, TypeScript, Node.js and PostgreSQL, and I've been teaching myself C++ and local AI models on the side.
 
-I care about the parts most people skip: the API behind the button, the database underneath it, and the test that proves it still works. Software that holds up beats software that looks finished — real tests, honest errors, and no feature that quietly makes things up.
-
-I'm looking for a co-op, internship or junior full-stack role, in Vancouver or remote. When something breaks, I write it down: seven writeups so far, each one starting from real code in one of my projects.
+I care about the parts most people skip: honest errors, a test for the thing that broke last time, and no feature that quietly makes things up.
 
 ---
 
 <!-- STATS:START -->
-<p align="center">
-  <b>1,216</b> <sub>commits this year</sub> &nbsp;·&nbsp; <b>67</b> <sub>pull requests merged</sub> &nbsp;·&nbsp; <b>13</b> <sub>projects built</sub> &nbsp;·&nbsp; <b>6</b> <sub>live apps</sub> &nbsp;·&nbsp; <b>1,564</b> <sub>tests on one solo app</sub>
-</p>
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center"><h3>1,216</h3><sub>commits this year</sub></td>
+    <td align="center"><h3>67</h3><sub>pull requests merged</sub></td>
+    <td align="center"><h3>13</h3><sub>projects built</sub></td>
+    <td align="center"><h3>6</h3><sub>live apps</sub></td>
+    <td align="center"><h3>1,564</h3><sub>tests on one solo app</sub></td>
+  </tr>
+</table>
+</div>
 <!-- STATS:END -->
 
 ---
 
 ## Selected work
 
-### ⚡ [SignalDesk](https://github.com/ShervinBabaei2007/SignalDesk) — what the news actually agrees on
+### ⚡ SignalDesk — what the news actually agrees on
 
 <p align="center">
-  <a href="https://github.com/ShervinBabaei2007/ShervinBabaei2007/blob/main/assets/signaldesk-dashboard.webp"><img src="https://raw.githubusercontent.com/ShervinBabaei2007/ShervinBabaei2007/main/assets/signaldesk-dashboard.webp" alt="SignalDesk dashboard: key figures, a seven-day sentiment trend, the daily brief and the story feed" width="72%" /></a>
+  <a href="https://github.com/ShervinBabaei2007/ShervinBabaei2007/blob/main/assets/signaldesk-dashboard.webp"><img src="https://raw.githubusercontent.com/ShervinBabaei2007/ShervinBabaei2007/main/assets/signaldesk-dashboard.webp" alt="SignalDesk dashboard: key figures, a seven-day sentiment trend, the daily brief and the story feed" width="86%" /></a>
   <br />
-  <sub>The SignalDesk dashboard · tap the image to open it full size</sub>
+  <sub>SignalDesk dashboard · click to open it full size</sub>
 </p>
 
-SignalDesk reads dozens of news sites, groups the articles that cover the same event, and shows you where those outlets agree and where their numbers differ.
+It reads dozens of news outlets, groups the articles that cover the same event, and shows where those outlets agree — and where their numbers don't.
 
-- It groups articles by what they say, not just by their headlines, so two rewrites of the same story end up together.
-- For every story it shows what outlets agree on, what they disagree on, and what only one outlet claims.
-- It follows a story over several days: who reported it first, who joined later, and how the tone changed.
-- It runs with no paid services and no API keys. The AI parts are optional, and the app works without them.
+- Groups by what the articles say, not just their headlines, so two rewrites of one story land side by side.
+- Every story shows what outlets agree on, what they dispute, and what only one of them claims.
+- Follows a story across days: who reported it first, who joined later, and how the tone changed.
+- No paid services and no API keys. The AI parts are optional, and the app works without them.
 
-**Built with:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<p><sub>Python · FastAPI · React · TypeScript · Docker &nbsp;|&nbsp; solo project, built in nine days, 310 automated tests</sub></p>
 
-**Solo project · built in nine days · 310 automated tests**
+[**Live app**](https://signaldesk-lemon.vercel.app) · [Code](https://github.com/ShervinBabaei2007/SignalDesk) · [Case study](https://shervin-babaei.me/work/signaldesk)
 
-[Live app](https://signaldesk-lemon.vercel.app) · [Code](https://github.com/ShervinBabaei2007/SignalDesk) · [Case study](https://shervin-babaei.me/work/signaldesk)
-
-### 🌐 [Network Growth Assistant](https://github.com/ShervinBabaei2007/Network-Growth-Assistance) — networking and a job search in one place
+### 🌐 Network Growth Assistant — networking and a job search in one place
 
 <p align="center">
-  <a href="https://github.com/ShervinBabaei2007/ShervinBabaei2007/blob/main/assets/nga-banner.webp"><img src="https://raw.githubusercontent.com/ShervinBabaei2007/ShervinBabaei2007/main/assets/nga-banner.webp" alt="Network Growth Assistant shown in a browser window and on a phone" width="82%" /></a>
+  <a href="https://github.com/ShervinBabaei2007/ShervinBabaei2007/blob/main/assets/nga-banner.webp"><img src="https://raw.githubusercontent.com/ShervinBabaei2007/ShervinBabaei2007/main/assets/nga-banner.webp" alt="Network Growth Assistant shown in a browser window and on a phone" width="88%" /></a>
   <br />
-  <sub>Network Growth Assistant · tap the image to open it full size</sub>
+  <sub>Network Growth Assistant · click to open it full size</sub>
 </p>
 
-One place to grow your network, find real jobs and keep track of every application. It never touches LinkedIn for you: you open the profile, you send the message.
+One place to grow your network, find real jobs and keep every application moving. It never touches LinkedIn for you: you open the profile, you send the message.
 
-- It suggests people to contact and shows you the source behind every fact, so nothing is a guess.
-- It pulls jobs from companies' own career pages, then matches them against your resume.
-- It tracks applications and follow-ups, so a good lead doesn't quietly go cold.
+- Suggests people to contact and shows the source behind every fact, so nothing is a guess.
+- Pulls jobs from companies' own career pages, then matches them against your résumé.
+- Tracks applications and follow-ups, so a good lead doesn't quietly go cold.
 - 1,564 automated tests, plus 134 that click through the real app in a browser.
 
-**Built with:** <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<p><sub>Next.js · React · TypeScript · Supabase · PostgreSQL &nbsp;|&nbsp; solo project, 263 commits</sub></p>
 
-**Solo project · 263 commits**
+[**Live app**](https://linkedin-network-growth-assistance.vercel.app) · [Code](https://github.com/ShervinBabaei2007/Network-Growth-Assistance) · [Case study](https://shervin-babaei.me/work/network-growth-assistant)
 
-[Live app](https://linkedin-network-growth-assistance.vercel.app) · [Code](https://github.com/ShervinBabaei2007/Network-Growth-Assistance) · [Case study](https://shervin-babaei.me/work/network-growth-assistant)
-
-### 🎓 [SkillMatch](https://github.com/ShervinBabaei2007/SkillMatch) — find a workshop, or host one
+### 🎓 SkillMatch — find a workshop, or host one
 
 A board where instructors post short workshops and students sign up. Students and instructors see different things, seats fill up but never overbook, and every sign-up gets a QR code to scan at the door.
 
-**My part:** backend, sign-in and deployment, in a four-week team sprint — 105 of the team's 199 commits.
+<p><sub>React · TypeScript · Node.js · Express · MongoDB &nbsp;|&nbsp; team of four, four-week sprint — backend, sign-in and deployment, 105 of the team's 199 commits</sub></p>
 
-**Built with:** <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+[**Live app**](https://skillmatch-web.vercel.app/) · [Code](https://github.com/ShervinBabaei2007/SkillMatch) · [Case study](https://shervin-babaei.me/work/skillmatch)
 
-[Live app](https://skillmatch-web.vercel.app/) · [Code](https://github.com/ShervinBabaei2007/SkillMatch) · [Case study](https://shervin-babaei.me/work/skillmatch)
-
-### 🏆 [GitScribe](https://github.com/adriencyr/GitScribe) — top 6 of 36 teams at Hack the Break 2026
+### 🏆 GitScribe — top 6 of 36 teams at Hack the Break 2026
 
 Upload two versions of a file and get a suggested description of what changed. I led the front end, and we placed top 6 out of 36 teams in 24 hours.
 
-**Built with:** <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<p><sub>React · TypeScript · Auth0 · Python &nbsp;|&nbsp; five-person hackathon team</sub></p>
 
-[Live app](https://git-scribe-aybm.vercel.app/) · [Team code](https://github.com/adriencyr/GitScribe)
+[**Live app**](https://git-scribe-aybm.vercel.app/) · [Team code](https://github.com/adriencyr/GitScribe)
 
 ---
 
 ## More projects
 
-| Project | What it does | Built with |
+| Project | What it does | Stack |
 | --- | --- | --- |
 | 📝 [**ThinkBoard**](https://shervin-babaei.me/work/thinkboard) · [live](https://mern-thinkboard-plum.vercel.app) | A calm notes app that protects itself from being overloaded: it refuses extra requests after 50 a minute | React, Node.js, Express, MongoDB, Redis |
-| 🔗 [**LinkLocker**](https://shervin-babaei.me/work/linklocker) · [live](https://linklocker.northcentralus.cloudapp.azure.com/) | A link shortener running on a real server, with HTTPS, a reverse proxy and Google sign-in | Node.js, Express, MongoDB, Nginx, Azure |
-| ⚔️ [**Warrior's Path**](https://shervin-babaei.me/work/mini-rpg-battle) | A fighting game you play in a text window: bosses, loot, and a saved game you can pick back up | Python, tested with pytest |
+| 🔗 [**LinkLocker**](https://shervin-babaei.me/work/linklocker) · [live](https://linklocker.northcentralus.cloudapp.azure.com/) | A link shortener on a real server, with HTTPS, a reverse proxy and Google sign-in | Node.js, Express, MongoDB, Nginx, Azure |
+| ⚔️ [**Warrior's Path**](https://shervin-babaei.me/work/mini-rpg-battle) | A fighting game you play in a text window: bosses, loot, and a saved game you can pick back up | Python, pytest |
 | 🧠 [**Tic-Tac-Toe AI**](https://shervin-babaei.me/work/tic-tac-toe-minimax) | An opponent that never loses: 1,200 games against a random player, not one loss | Python, recursion |
-| 🖼️ [**Jinterest**](https://shervin-babaei.me/work/jinterest) | A mood board that remembers exactly how you left it, with undo and redo, built with no framework | HTML, CSS, JavaScript |
+| 🖼️ [**Jinterest**](https://shervin-babaei.me/work/jinterest) | A mood board that remembers how you left it, with undo and redo, built with no framework | HTML, CSS, JavaScript |
 | 🎨 [**PNWX UX Redesign**](https://shervinbabaei2007.github.io/mkdocs-project-2026/) | A full design case study for a medical supply site: research, page structure, wireframes and testing | Figma, MkDocs |
 | 🤖 [**Discord AI Bridge**](https://shervin-babaei.me/work/discord-ai-bridge) | A Discord bot that answers with an AI model running on my own laptop | Python, Discord.py |
-| 🦙 [**Local AI experiments**](https://shervin-babaei.me/work/ollama-rag) | Small projects for learning how AI models work: sorting a grocery list, asking questions about a PDF | Python, Ollama |
+| 🦙 [**Local AI experiments**](https://shervin-babaei.me/work/ollama-rag) | Learning how models work: sorting a grocery list, asking questions about a PDF | Python, Ollama |
 | 📊 [**Job Application Tracker**](https://shervin-babaei.me/work/job-application-tracker) | A command-line tool that keeps every application, status and date in one place | Python, SQLite |
 
 ---
@@ -126,7 +128,7 @@ Each one starts from real code in one of my projects and ends with what I'd chan
 
 ---
 
-## Tools I've shipped with
+## Stack
 
 <div align="center">
 
@@ -135,7 +137,6 @@ Each one starts from real code in one of my projects and ends with what I'd chan
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 
 **Frontend**
@@ -145,7 +146,6 @@ Each one starts from real code in one of my projects and ends with what I'd chan
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 
 **Backend and data**
 
@@ -170,6 +170,7 @@ Each one starts from real code in one of my projects and ends with what I'd chan
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 
 **AI**
 
@@ -186,30 +187,15 @@ Each one starts from real code in one of my projects and ends with what I'd chan
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShervinBabaei2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShervinBabaei2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=ShervinBabaei2007&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShervinBabaei2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats for ShervinBabaei2007" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShervinBabaei2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
 </div>
 
 ---
 
-## Open to work
+## Contact
 
-I'm looking for a co-op, internship or junior full-stack role in Vancouver (on-site or hybrid), or anywhere remote. I want a team where code review is normal and where I can own a piece of the product from the first commit to the deploy.
+I'm looking for a co-op, internship or junior full-stack role — Vancouver (on-site or hybrid), or anywhere remote. I want a team where code review is normal and where I can own a piece of the product from the first commit to the deploy.
 
-The fastest way to reach me is email. I reply within two business days.
-
-<div align="center">
-
-<p>
-  <a href="https://shervin-babaei.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://shervin-babaei.me/Shervin-Babaei-Resume.pdf"><b>Résumé</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/shervin-babaei-5a326a388/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:shervinb22@gmail.com"><b>shervinb22@gmail.com</b></a>
-</p>
-
-<sub>Always learning, building, and improving — one project at a time.</sub>
-
-</div>
+Email is the fastest way to reach me, and I reply within two business days: **[shervinb22@gmail.com](mailto:shervinb22@gmail.com)**
