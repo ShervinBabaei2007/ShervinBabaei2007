@@ -23,7 +23,7 @@ I'm looking for a co-op, internship or junior full-stack role, in Vancouver or r
 
 <!-- STATS:START -->
 <p align="center">
-  <b>1,212</b> <sub>commits this year</sub> &nbsp;·&nbsp; <b>67</b> <sub>pull requests merged</sub> &nbsp;·&nbsp; <b>13</b> <sub>projects built</sub> &nbsp;·&nbsp; <b>6</b> <sub>live apps</sub> &nbsp;·&nbsp; <b>1,564</b> <sub>tests on one solo app</sub>
+  <b>1,216</b> <sub>commits this year</sub> &nbsp;·&nbsp; <b>67</b> <sub>pull requests merged</sub> &nbsp;·&nbsp; <b>13</b> <sub>projects built</sub> &nbsp;·&nbsp; <b>6</b> <sub>live apps</sub> &nbsp;·&nbsp; <b>1,564</b> <sub>tests on one solo app</sub>
 </p>
 <!-- STATS:END -->
 
